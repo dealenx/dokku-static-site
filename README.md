@@ -26,7 +26,3 @@ The site is now available at <http://my-static-site.dokku.me>
 ### Ignoring certain files
 
 Add line to `.dockerignore` if you want to exclude certain files from getting exposed.
-
-### Credits 
-
-https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S -- $17 admin panel
